@@ -1,8 +1,27 @@
-# ⚡ Flashcard Bars ALFA
+# ⚡ CARDERNO DEV
 
 _Descrição desse repositório_
 
 Este repositório serve como uma documentação centralizada e de commits importantes de diversos projetos. Ele oferece links para buscas e acessos rápidos a commits relevantes. Duas coisas são fundamentais aqui. Primeiro, cada nova documentação deve ter o título começando com "Sessão" seguido pelo título do commit exatamente como está no projeto original. Segundo, para a "Primeira Implementação", o link deve direcionar para a primeira versão da classe ou código em questão.
+
+
+## Sessão 00.02 - `00.06 - Classe JS DelegatedButtonClick`
+
+###  **Primeiro Implementação**: 
+
+- [00.06 - Classe JS DelegatedButtonClick](https://github.com/H7-Dev/CONTROLER-FX/commit/8d62af9af1b2002f110a163e56f833892cba6762)
+- [Link do Modelo](https://github.com/H7-Dev/CONTROLER-FX/commit/8d62af9af1b2002f110a163e56f833892cba6762#commitcomment-146828913)
+
+
+### Resumo dos Recursos:
+
+1. **Delegação de eventos**: Captura o clique no botão por meio de delegação no elemento estático.
+2. **Flexibilidade de seletores**: Permite o uso de IDs (`#id`) ou classes (`.class`) como seletor para o botão.
+3. **Callback personalizável**: Executa uma função personalizada (`onClickCallback`) ao detectar o clique no botão.
+4. **Inicialização automática**: O método `init` configura automaticamente o evento ao instanciar a classe.
+5. **Método estático para facilidade de uso**: Método `init` facilita a criação de instâncias da classe.
+
+Esses recursos tornam a classe adequada para lidar com cenários onde os eventos de clique precisam ser tratados de maneira dinâmica e eficiente, especialmente em interfaces que mudam ou carregam conteúdo dinamicamente.
 
 
 ## Sessão 00.01 - ✍️ 00.05.17.X - Preparando ambiente para criar gráficos de barra - Fase Final 👀
