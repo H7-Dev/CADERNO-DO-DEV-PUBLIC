@@ -5,6 +5,24 @@ _Descrição desse repositório_
 Este repositório serve como uma documentação centralizada e de commits importantes de diversos projetos. Ele oferece links para buscas e acessos rápidos a commits relevantes. Duas coisas são fundamentais aqui. Primeiro, cada nova documentação deve ter o título começando com "Sessão" seguido pelo título do commit exatamente como está no projeto original. Segundo, para a "Primeira Implementação", o link deve direcionar para a primeira versão da classe ou código em questão.
 
 
+## Sessão 00.03 - `00.10.00 - Implementação da classe JS TabSwitcher ✔️✔️✔️ + 📕`
+
+
+###  **Primeiro Implementação**: 
+
+- [00.10.00 - Implementação da classe JS TabSwitcher ✔️✔️✔️ + 📕](https://github.com/H7-Dev/CONTROLER-FX/commit/86639f354655a2d41059e33e3ada9416d5b93432)
+- [Link do Modeo](https://github.com/H7-Dev/CONTROLER-FX/commit/86639f354655a2d41059e33e3ada9416d5b93432#commitcomment-146948278)
+
+### Resumo dos Recursos:
+
+- [x] **Evento Delegado:** Utiliza evento delegado no elemento estático (geralmente `body`) para capturar cliques em botões sem a necessidade de adicionar ouvintes individuais.
+- [x] **Alternância de Classes:** Gerencia a adição e remoção das classes CSS `active-tab` e `active-painel` nos botões e paineis correspondentes.
+- [x] **Seleção por Atributos:** Seleciona botões e paineis pelos atributos `tab-id` e `painel-id`, respectivamente, tornando o código mais robusto e flexível.
+- [x] **Configuração Flexível:** Permite configurar seletores e classes CSS através de parâmetros, facilitando a reutilização e adaptação em diferentes contextos.
+- [x] **Depuração Aprimorada:** Inclui mensagens detalhadas no console (`console.log`) para facilitar a depuração e acompanhamento do fluxo de eventos.
+- [x] **Documentação com JsDoc:** Contém comentários JsDoc no cabeçalho da classe para melhorar a legibilidade e auxiliar na geração de documentação automatizada.
+
+
 ## Sessão 00.02 - `00.06 - Classe JS DelegatedButtonClick`
 
 ###  **Primeiro Implementação**: 
