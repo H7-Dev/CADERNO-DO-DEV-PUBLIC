@@ -5,6 +5,24 @@ _Descrição desse repositório_
 Este repositório serve como uma documentação centralizada e de commits importantes de diversos projetos. Ele oferece links para buscas e acessos rápidos a commits relevantes. Duas coisas são fundamentais aqui. Primeiro, cada nova documentação deve ter o título começando com "Sessão" seguido pelo título do commit exatamente como está no projeto original. Segundo, para a "Primeira Implementação", o link deve direcionar para a primeira versão da classe ou código em questão.
 
 
+## Sessão 00.00 - `00.12.01 - Pré-layout da pag-adicionar-controller`
+
+### **Primeiro Implementação**: 
+- [00.12.01 - Pré-layout da pag-adicionar-controller](https://github.com/H7-Dev/CONTROLER-FX/commit/721dc13686486a25bb487cd2b821347b57a7d60e#commitcomment-146999828)
+- [link do modelo](https://github.com/H7-Dev/CONTROLER-FX/commit/721dc13686486a25bb487cd2b821347b57a7d60e#commitcomment-146999828)
+
+### Resumo:
+
+Este commit introduz o "Modelo A" para campos de texto, fornecendo uma estrutura modular e estilizada para inputs com suporte a ícones e mensagens de feedback. Este modelo visa padronizar a aparência e a funcionalidade dos campos de formulário na aplicação.
+
+1. **Modelo de campo de texto**: Estrutura HTML para rótulo, input, ícones e mensagens de feedback.
+2. **Estilização Flexbox**: Layout flexível e responsivo para os componentes do modelo.
+3. **Interatividade dos botões**: Estilos de hover, foco e clique para botões associados ao campo de texto.
+4. **Mensagens de feedback**: Área dedicada para exibir mensagens de feedback ao usuário.
+5. **Integração de ícones SVG**: Suporte para ícones de entrada e pesquisa no campo de texto.
+
+
+
 ## Sessão 00.03 - `00.10.00 - Implementação da classe JS TabSwitcher ✔️✔️✔️ + 📕`
 
 
